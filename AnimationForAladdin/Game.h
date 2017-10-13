@@ -24,6 +24,7 @@ class CGame
 protected:
 	LPDIRECT3D9 _d3d;
 	LPDIRECT3DDEVICE9 _d3ddv;
+	
 	LPDIRECT3DSURFACE9 _BackBuffer;
 
 	LPDIRECTINPUT8       _di;		// The DirectInput object         
